@@ -75,9 +75,9 @@ height: 100vh;
 }
 
 .foto-de-perfil img{
-    width: 5rem;
+    width: 10rem;
     height: 50%;
-    border-radius: 100%;
+    clip-path: circle(30%);
     }
 
     .login{
